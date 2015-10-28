@@ -1,0 +1,69 @@
+@charset "utf-8";
+#first #shivi {
+	float: left;
+	color: #E3181C;
+	margin: 5 px;
+	height: 30%;
+	float-offset: left;
+	width: 28%;
+	border: 10px double #2DAADF;
+	background-color: #FFFFFF;
+}
+#shivi #sa p {
+}
+
+#first #nidhi {
+	margin: 23px;
+	height: 30%;
+	float : left;
+	width:33%;
+	border: 10px double #2DAADF;
+	
+	
+}
+
+#nidhi #sa2 p {
+}
+#header {
+	color: #FCFBFC;
+	font-family: aladin;
+	font-style: normal;
+	font-weight: 1000;
+	font-size: x-large;
+	text-align: center;
+	background-color: #2B92CB;
+	text-transform: uppercase;
+	border-radius: 20px;
+	border-color: #430B9C;
+	border-width: 10%;
+}
+#first #shivi #ph1 {
+	
+}
+
+#first {
+}
+#first #nidhi #ph3 {
+	
+}
+#first #saumya #ph2 {
+	
+}
+#first #saumya {
+	height: 30%;
+	float: left;
+	width:28%;
+	border: 10px double #2DAADF;
+	margin:0px;
+}
+#nidhi #sa2 p {
+}
+#shivi #sa p {
+}
+#sa {
+	margin-top: 7px;
+	margin-right: 7px;
+	margin-bottom: 7px;
+	margin-left: 7px;
+	
+}
